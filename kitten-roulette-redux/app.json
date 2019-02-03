@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Redux Example",
-    "slug": "kitten-clicker-redux",
+    "name": "Tracks how many time you click the kitten",
+    "slug": "kitten-clicker-no-redux",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
