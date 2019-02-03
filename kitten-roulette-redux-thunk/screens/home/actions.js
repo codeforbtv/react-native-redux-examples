@@ -1,9 +1,6 @@
 import {CUDDLE, SCRATCH} from "../../constants/action-types";
 import {attemptCuddle} from "../../data-sources";
 
-const oddsOfSuccess = 0.25;
-const tryCuddle = () => (Math.random() >= oddsOfSuccess);
-
 
 // Use a thunk ( a function returned from a function) to get async behavior
 export function attemptToCuddle() {
