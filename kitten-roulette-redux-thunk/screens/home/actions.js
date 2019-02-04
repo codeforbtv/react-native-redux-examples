@@ -15,7 +15,6 @@ export function attemptToCuddle() {
             }
 
             if (response === 'scratch') {
-
                 // Scratch
                 dispatch({
                     type: SCRATCH

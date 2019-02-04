@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tracks how many time you click the kitten",
-    "slug": "kitten-clicker-no-redux",
+    "name": "Kitten Roulette",
+    "slug": "kitten-routlette-no-redux-thunk",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
