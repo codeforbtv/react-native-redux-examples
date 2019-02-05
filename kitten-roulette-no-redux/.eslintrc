@@ -10,8 +10,7 @@
   "parser": "babel-eslint",
   "plugins": [
     "babel",
-    "react",
-    "jsx-a11y"
+    "react"
   ],
   "rules": {
     "jsx-a11y/href-no-hash": 0,
